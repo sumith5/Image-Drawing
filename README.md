@@ -8,3 +8,6 @@ There isn’t an easy method to process images and draw symbols using the turtle
 I have written code not only to process and draw single image. The code process multiple images and combines image processing (extracting outlines) and Turtle graphics for drawing the outlined images at specified positions on the screen.
 
  Visit the following blog for Explanation : https://medium.com/@sumithearra/image-processing-with-turtle-for-electronic-symbols-drawing-3792c9a9f2d8
+
+ Also read the following Blog for using Multithreading concepts with the turtle :
+https://medium.com/@sumithearra/how-turtle-graphics-and-multithreading-interact-4f176e5703e0
